@@ -510,6 +510,20 @@ input {
         font-size: 15px;
         /* height: 100%; */
     }
+    .nav-link:hover {
+        /* padding: 4px; */
+        color: black;
+        background-color: white;
+        /* border-radius: 50%; */
+
+    }
+    .nav-links>.nav-link>i {
+        font-size: 15px;
+    }
+
+    .nav-links {
+        justify-content: center;
+    }
 
     .banner {
         height: 200px;
